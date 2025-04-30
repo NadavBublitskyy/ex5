@@ -1,1 +1,2 @@
-# ex5
+# server exersice
+https://github.com/NadavBublitskyy/ex5
